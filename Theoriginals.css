@@ -1,0 +1,57 @@
+html{
+    font-size: 62.5%;
+    font-family: Roboto,sans-serif;
+}
+
+body{
+    background-color: black;
+    padding-left: 20rem;
+    padding-right:20rem ;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+h1{
+    color: orange;
+    font-size: 4rem;
+}
+#title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.head{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+h4{
+    color: orange;
+    font-size: 2rem;
+}
+p{
+    color: orange;
+    font-size: 1.8rem;
+}
+ul{
+    color: orange;
+}
+a{
+    color: rgb(201, 5, 5);
+    text-decoration: none;
+}
+#chimg{
+    border-radius: 4rem;
+    border: 0.3rem solid rgb(136, 4, 4);
+    width:35% ;
+    float: left;
+}
+#sub{
+    background-color: rgb(201, 5, 5);
+    color:white;
+    border: 0.2rem solid orange;
+    width: 7rem;
+    height: 2.5rem;
+    border-radius: 0.4rem;
+}
